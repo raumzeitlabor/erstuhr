@@ -1,0 +1,12 @@
+
+/main.o
+/image.bin
+/image.elf
+/image.hex
+/image.lst
+/image.map
+/image.srec
+/image_eeprom.bin
+/image_eeprom.hex
+/image_eeprom.srec
+/main.d
